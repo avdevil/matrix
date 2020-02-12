@@ -1,7 +1,7 @@
 
 import requests
 
-a = np.matrix([[1, 2], [3, 4]])  # using array of array
+a = np.matrix([[1, 2], [3, 4]])  
 print('2x2 matrix is:\n', a)
 print('The dimension of the matrix is :', a.shape)
 
