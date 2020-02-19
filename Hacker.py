@@ -1,4 +1,5 @@
 # Python Program - Make Simple Calculator
+import requests
 Print("coded by a devil")
 print("1. Addition");
 print("2. Subtraction");
