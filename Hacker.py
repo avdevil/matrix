@@ -1,6 +1,8 @@
 # Python Program - Make Simple Calculator
 import requests
+for i in range (10):
 print("coded by avdevil")
+for i in range (1):
 print("1. Addition");
 print("2. Subtraction");
 print("3. Multiplication");
