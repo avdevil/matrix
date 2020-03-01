@@ -1,6 +1,6 @@
 # Python Program - Make Simple Calculator
 import requests
-import banner
+
 def banner():
     print(r"                       __  __ ___ _  _ ___                        ")
     print(r"                      |  \/  |_ _| \| |_ _|                       ")
