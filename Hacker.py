@@ -13,6 +13,7 @@ def banner():
     print(r"  ____) | |  | |____) | | |_) | |__| | |  | | |_) | |____| | \ \  ")
     print(r" |_____/|_|  |_|_____/  |____/ \____/|_|  |_|____/|______|_|  \_\ ")
     print(r"                                                                  ")
+banner()
 print("1. Addition");
 print("2. Subtraction");
 print("3. Multiplication");
@@ -39,4 +40,4 @@ elif choice == 5:
     exit();
 else:
     print("Wrong input..!!");
-banner()
+
