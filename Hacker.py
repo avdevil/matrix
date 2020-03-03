@@ -2,7 +2,7 @@
 import requests
 
 def banner():
-print(r'                                             ')
+                                            
  print(r'   / \__   _| |__   __ _  ___| | _____ _ __ ')
  print(r'  / _ \ \ / / '_ \ / _` |/ __| |/ / _ \ '__|')
  print(r' / ___ \ V /| | | | (_| | (__|   <  __/ |   ')
